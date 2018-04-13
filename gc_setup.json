@@ -1,0 +1,76 @@
+{
+  "course_setup" : {
+    "conv_matrix" : [
+      {
+        "mark" : "A+",
+        "min" : 100,
+        "max" : 97
+      },
+      {
+        "mark" : "A",
+        "min" : 93,
+        "max" : 96
+      },
+      {
+        "mark" : "A-",
+        "min" : 90,
+        "max" : 92
+      },
+      {
+        "mark" : "B+",
+        "min" : 87,
+        "max" : 89
+      },
+      {
+        "mark" : "B",
+        "min" : 83,
+        "max" : 86
+      },
+      {
+        "mark" : "B-",
+        "min" : 80,
+        "max" : 82
+      },
+      {
+        "mark" : "C+",
+        "min" : 77,
+        "max" : 79
+      },
+      {
+        "mark" : "C",
+        "min" : 73,
+        "max" : 76
+      },
+      {
+        "mark" : "C-",
+        "min" : 70,
+        "max" : 72
+      },
+      {
+        "mark" : "D+",
+        "min" : 67,
+        "max" : 69
+      },
+      {
+        "mark" : "D",
+        "min" : 63,
+        "max" : 66
+      },
+      {
+        "mark" : "D-",
+        "min" : 60,
+        "max" : 62
+      },
+      {
+        "mark" : "F"
+      }
+    ],
+    "grade_breakdown" : {
+      "In-class labs": 15,
+      "Quizzes" : 15,
+      "Assignments" : 20,
+      "Midterm" : 20,
+      "Final Project" : 30
+    }
+  }
+}
